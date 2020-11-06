@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Currencies\Database\Factories;
+namespace LaravelEnso\Currencies\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Collection;
